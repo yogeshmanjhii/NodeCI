@@ -5,4 +5,4 @@ module.exports = {
   mongoURI: 'mongodb://localhost:27017/blog_everyone',
   cookieKey: '123123123'
 };
- 
+  
